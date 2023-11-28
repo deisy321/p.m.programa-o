@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 15px; /* Aumentei o espaçamento entre os itens de lista */
+}
+
+ul li a {
+    display: block;
+    background-color: #00bcd4;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #fff; /* Adicionei uma cor branca para o texto */
+    text-decoration: none;
+    transition: background-color 0.3s; /* Adicionei uma transição suave */
+}
+
+ul li a:hover {
+    background-color: #008ba3; /* Cor mais escura no hover */
+}

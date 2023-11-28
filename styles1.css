@@ -1,0 +1,70 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background: linear-gradient(to bottom, #3498db, #2c3e50);
+    color: #ecf0f1;
+}
+
+center {
+    display: block;
+    text-align: center;
+}
+
+h2, h3 {
+    color: #e74c3c; /* Cor Morango */
+    font-weight: normal; /* Removendo negrito */
+    font-size: 1.8em; /* Tamanho um pouco menor */
+}
+
+h5 {
+    color: #e74c3c; /* Cor Morango */
+}
+
+h6 {
+    color: #bdc3c7; /* Cor Cinza para subtítulos */
+}
+
+p {
+    color: #bdc3c7; /* Cor Cinza para texto regular */
+}
+
+a {
+    color: #3498db; /* Cor Azul para links normais */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.advantages, .disadvantages {
+    margin-bottom: 20px;
+}
+
+.advantages h5, .disadvantages h5 {
+    margin-top: 10px;
+}
+
+.note {
+    font-style: italic;
+    color: #bdc3c7; /* Cor Cinza para notas */
+}
+
+.back-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.back-link a {
+    color: #3498db; /* Cor Azul para links de retorno */
+}
+
+
+

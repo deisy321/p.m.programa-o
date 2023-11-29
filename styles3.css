@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-image: url('https://img.freepik.com/vetores-premium/conexao-de-pessoas-e-ilustracao-vetorial-de-rede-social-de-conceito-de-comunicacao_302149-328.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+}
+
+
+h2, h3 {
+    color: #333; 
+}
+
+.secao2 {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+}
+
+a {
+    color: #3498db; /* Azul mais suave */
+    text-decoration: none;
+    transition: color 0.3s; 
+}
+
+a:hover {
+    color: #e74c3c; 
+    text-decoration: underline;
+}

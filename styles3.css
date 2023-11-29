@@ -6,6 +6,9 @@ body {
     background-size: cover; 
     background-position: center; 
 }
+p {
+    font-size: 1.2em; 
+}
 
 
 h2, h3 {

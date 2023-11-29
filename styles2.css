@@ -2,22 +2,25 @@ body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 20px;
-    background-color: #faff72; /* Amarelo Limão */
+    background-color: #faff72; 
+}
+p {
+    font-size: 1.2em; 
 }
 
 h2, h3 {
-    color: #555; /* Cinza */
+    color: #555; 
 }
 
 .secao2 {
     padding: 20px;
     border-radius: 10px;
-    background-color: #fff; /* Branco */
+    background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 a {
-    color: #007bff; /* Azul */
+    color: #007bff; 
     text-decoration: none;
 }
 

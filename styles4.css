@@ -7,6 +7,9 @@ body {
     background-image: url('https://img.freepik.com/fotos-premium/o-codigo-de-programacao-funciona-atraves-da-ilustracao-3d-do-terminal-da-tela-do-computador_250994-1966.jpg');
     background-size: cover;
 }
+p {
+    font-size: 1.2em; 
+}
 
 h2, h6 {
     color:  #00FFFF;
